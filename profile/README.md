@@ -1,4 +1,4 @@
-<h1 align="center">👋 Somos a voidEnterprise</h1>
+<h1 align="center">🌍 voidEnterprise 🌍</h1>
 <h3 align="center">Um grupo de amigos apaixonados pela programação, enquanto nos divertimos com isso =)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=voidenterprise&label=Profile%20views&color=0e75b6&style=flat" alt="voidenterprise" /> </p>
